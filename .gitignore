@@ -1,0 +1,5 @@
+# Ignora todo por defecto
+*
+
+# Pero NO ignores estos archivos (los ! sirven para anular la regla anterior)
+!gestor tareas/
